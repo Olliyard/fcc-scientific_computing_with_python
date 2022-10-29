@@ -1,7 +1,8 @@
 # Readme
-Collection of projects created during the Scientific Computing with Python course on freeCodeCamp.com
+## Collection of projects created during the Scientific Computing with Python course on freeCodeCamp.com
 
-The projects are as follows:
+### The projects are as follows:
+
 **1 - Arithmetic Formatter:** The program takes a mathematical problem as a string and formats it accordin to the rules described on the project page.
 > https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
 
